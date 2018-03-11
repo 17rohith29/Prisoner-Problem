@@ -54,7 +54,7 @@ def canCross(r,c,lst):
     output = [] 
     lst[r][c] = True #updates the list
     if r == 0 and c == len(lst) - 1:
-    	return checkPassedAll
+    	return checkPassedAll(lst)
     else:
     	a,b = getUp(r,c)
     	if hasElement(lst,a,b):
