@@ -10,6 +10,6 @@ The following list represents a prison with each index representing the correspo
 It turns out that prisoner at cell 13 dies and his body must be removed from cell 4(Exit). To inform the other prisoners
 the want to pass his body through all the other cells just once.
 Is it possible to do so?
-(<h3>NOTE</h3> - 9 is above 13 , and 14 is to the right. The movement can be along up, down, left and right dirctions of 1 step only)
+<h3>NOTE</h3> - 9 is above 13 , and 14 is to the right. The movement can be along up, down, left and right dirctions of 1 step only
 
 
