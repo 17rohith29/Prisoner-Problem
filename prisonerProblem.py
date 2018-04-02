@@ -75,7 +75,7 @@ passed = [
         [False,False,False,False],
         [False,False,False,False],
         [False,False,False,False],
-        [True,False,False,False]
+        [False,False,False,False]
         ]
 r,c = 3,0 # 13 is 3,0
 print(canCross(r,c,passed))
